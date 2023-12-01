@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HandlingBackendErrors</string>
+    <string name="user_not_found">This user does not exist. Please Signup</string>
+    <string name="user_not_verified">Please check your email to verify the account</string>
+    <string name="user_corrupted_data">Please contact the customer service</string>
+    <string name="user_need_to_update_info">An update needs to be done</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="Unknown_error">Uh-Oh, It seemed like we encountered server error</string>
+    <string name="type_your_email">Type your email</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
